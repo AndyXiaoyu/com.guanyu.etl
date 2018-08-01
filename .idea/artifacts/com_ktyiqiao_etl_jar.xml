@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.ktyiqiao.etl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_ktyiqiao_etl_jar</output-path>
+    <root id="archive" name="com.ktyiqiao.etl.jar">
+      <element id="module-output" name="com.ktyiqiao.etl" />
+    </root>
+  </artifact>
+</component>
